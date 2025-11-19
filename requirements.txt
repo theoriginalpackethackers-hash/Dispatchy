@@ -1,7 +1,0 @@
-streamlit
-streamlit-folium
-pandas
-numpy
-scikit-learn
-folium
-python-dateutil
